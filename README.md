@@ -1,8 +1,6 @@
 # SQL_Projects_Data_Bases
-Great Learning Projects
- SQL(Structured Query Language):
- Chinook_musical_Data_Base:(Project 1)
-Performed various joins to gather valuable insights like monthy invoice sales,  manager and employee wise sales, Customers who have made purchase in specific locations, genre wise total tracks,Customers analysis of track and genre which they liked the most.
+## 1.📊🎶 Chinook Musical Database[link](https://github.com/balaji00009/SQL_Projects_Data_Bases/blob/main/SQL_Film_rental_data_base.sql)
+- Description: 🎵 Expertly composed SQL queries harmonizing diverse database tasks: orchestrating monthly invoice sales, conducting a symphony of employee-manager relationships, singling out USA-based customers. Calculated musical metrics like total tracks per genre and tuned into the highest album unit price. Delivered a crescendo of insights, unveiling top spenders and total expenditures, showcasing a meticulous and strategic approach in the Chinook database. 📊🎶
 
-Filmrental_Data_Base:(Project 2 )
-Performed Complex Joins (Inner,Left,Right) upto 5 Joins to solve Business Requirements
+## 2.🎥Filmrental_Data_Base🎥📊✨[link](https://github.com/balaji00009/SQL_Projects_Data_Bases/blob/main/SQL_Film_rental_data_base.sql)
+Diligently tackled diverse queries in the Film Rental database, deriving valuable insights and enhancing data understanding. Calculated total revenue, analyzed monthly rental patterns, and determined the rental rate for the longest-titled film. Skillfully navigated temporal aspects, computing average rates for recent films and identifying popular film categories. Explored film duration dynamics, assessing both rented and unrated films. Delved into customer behavior, uncovering those who rented the same film multiple times and scrutinizing expenditure patterns. Applied statistical rigor, evaluating rental rates by film category and total revenue contributions from each actor. Demonstrated expertise in SQL, fostering an organized and insightful approach to database analysis. 🎥📊✨
